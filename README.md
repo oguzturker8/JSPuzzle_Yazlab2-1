@@ -32,15 +32,16 @@ Have Fun!
 
 ## Rules
 
-Player has to upload an image before the game via `Select an Image` button.
++ Player has to upload an image before the game via `Select an Image` button.
 
-Game starts after the first right shuffle.
++ Game starts after the first right shuffle.
 
-If there are no true pieces after the first shuffle, Player has to shuffle till the right pieces via `Shuffle` button.
++ If there are no true pieces after the first shuffle, Player has to shuffle till the right pieces via `Shuffle` button.
 
-+6 points per each true pieces.
++ +6 points per each true pieces.
 
--4 points per each wrong moves.
++ -4 points per each wrong moves.
+
 
 ### You can just hit the 100 points with a flawless shuffle. 
 
