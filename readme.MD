@@ -1,47 +1,43 @@
 # PuzzleJS
-🧩 Yazılım Laboratuvarı 2 - Proje 1
+🧩 YAZLAB2 - 1
 
-## Başlarken
+## Getting Started
 
-Bu talimatlar size projenin bir kopyasını verecektir.
+You can have a copy of this project easily with these steps.
 
-### Gereklilikler
+### Requirements
 
-Bilgisayarınızda [NodeJS](https://nodejs.org/en/download/) olması gerekiyor.
+You have to have NodeJS [NodeJS](https://nodejs.org/en/download/) can download here.
 
-### Kurulum
+### Installation 
 
-Devam etmeden önce npm paketlerini yüklemeniz gerekir.
+After NodeJS you need to install these packages.
 
 ```
 npm install -g nodemon
 npm install
 ```
 
-paketleri yükledikten sonra yapmanız gereken tek şey
+Then you can start the project on localhost with
 
 ```
 npm start
 ```
 
-yapmak.
-
-Varsayılan olarak, 4540 merkez bağlantı noktasında çalışır. Bunu `index.js` dosyasından değiştirebilirsiniz.
-
-`localhost:4540` adresinden uygulamaya ulaşabilirsiniz.
-
-İyi eğlenceler!
+Default port is 4540. Also can change it from 'index.js'.
+Can use program from `localhost:4540` address.
+Have Fun!
 
 
 ## Yapılandırma
 
-* [NodeJS](https://nodejs.org/en/) - Chrome'un V8 JavaScript Motorunu temel alan JavaScript çalışma zamanı
+* [NodeJS](https://nodejs.org/en/) - JavaScript runtime based on Chrome V8 JavaScript Engine
 
-## Yazarlar
+## Authors
 
-* **Ata Gülalan** - *İlk İş* - [atagulalan](https://github.com/atagulalan)
-* **Oğuzhan Türker** - *İlk İş* - [oguzturker8](https://github.com/oguzturker8)
+* **Ata Gülalan**  - [atagulalan](https://github.com/atagulalan)
+* **Oğuzhan Türker** - [oguzturker8](https://github.com/oguzturker8)
 
-## Lisans
+## Licance
 
 * MIT
