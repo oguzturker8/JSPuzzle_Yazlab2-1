@@ -44,7 +44,7 @@ If there are no true pieces after the first shuffle, Player has to shuffle till 
 
 ### You can just hit the 100 points with a flawless shuffle. 
 
-#####(So there are no skills you just need a some RNG)
+##### (So there are no skills you just need a some RNG)
 
 ## Configuration
 
