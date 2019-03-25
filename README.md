@@ -3,11 +3,10 @@
 
 ## Getting Started
 
-You can have a copy of this project easily with these steps.
+You can have a copy of this project easily to take these following steps.
 
-### Requirements
-
-You have to have NodeJS [NodeJS](https://nodejs.org/en/download/) can download here.
+You have to have NodeJS.
+[NodeJS]  Can download <a href="https://nodejs.org/en/download/">here.</a>
 
 ### Installation 
 
@@ -25,11 +24,13 @@ npm start
 ```
 
 Default port is 4540. Also can change it from 'index.js'.
-Can use program from `localhost:4540` address.
+
+Program uses `localhost:4540` address.
+
 Have Fun!
 
 
-## Yapılandırma
+## Configuration
 
 * [NodeJS](https://nodejs.org/en/) - JavaScript runtime based on Chrome V8 JavaScript Engine
 
