@@ -48,7 +48,7 @@ Have Fun!
 ##### (So there are no skills you just need a some RNG! **BlessRNG**)
 
 ### Shuffle
-![Shuffle](./puzzlejs1.jpg "Shuffle)
+![![Congratz](./puzzlejs2.jpg "Congratz")](./puzzlejs1.jpg "Congratz")
 
 ### Congratz
 ![Congratz](./puzzlejs2.jpg "Congratz")
