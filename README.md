@@ -45,7 +45,13 @@ Have Fun!
 
 ### You can just hit the 100 points with a flawless shuffle. 
 
-##### (So there are no skills you just need a some RNG)
+##### (So there are no skills you just need a some RNG! **BlessRNG**)
+
+### Shuffle
+![Shuffle](./puzzlejs1.jpg "Shuffle)
+
+### Congratz
+![Congratz](./puzzlejs2.jpg "Congratz")
 
 ## Configuration
 
@@ -53,8 +59,8 @@ Have Fun!
 
 ## Authors
 
-* **Ata Gülalan**  - [atagulalan](https://github.com/atagulalan)
-* **Oğuzhan Türker** - [oguzturker8](https://github.com/oguzturker8)
+- **Ata Gülalan**  - [atagulalan](https://github.com/atagulalan)
+- **Oğuzhan Türker** - [oguzturker8](https://github.com/oguzturker8)
 
 ## Licance
 
